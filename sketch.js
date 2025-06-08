@@ -447,3 +447,5 @@ if (score >= vorigeScoreCheckpoint + 100) {
     
   }
 }
+
+skladkasdajs
